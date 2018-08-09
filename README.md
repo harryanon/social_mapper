@@ -1,10 +1,12 @@
-# Social Mapper
+# Social Mapper  #IF YOU WANNA UI BASED THEN PING ME BELOW MENTONED MAIL ID , But here you can download only command-line based interface.. #Thanks of Jacob Wilkin #Please use same for Legal Work. followme @harryh4cker .
+
+In my UI version you get some another features like , Account Forensics and Fake News Detections..
 
 A Social Media Mapping Tool that correlates profiles via facial recognition by Jacob Wilkin(Greenwolf)
 
 Social Mapper is a Open Source Intelligence Tool that uses facial recognition to correlate social media profiles across different sites on a large scale. It takes an automated approach to searching popular social media sites for targets names and pictures to accurately detect and group a person’s presence, outputting the results into report that a human operator can quickly review.
 
-Social Mapper has a variety of uses in the security industry, for example the automated gathering of large amounts of social media profiles for use on targeted phishing campaigns. Facial recognition aids this process by removing false positives in the search results, so that reviewing this data is quicker for a human operator.
+Social Mapper has a variety of uses in the security industry, for example the automated gathering of large amounts of social media profiles for use on targeted phishing campaigns. Facial recognition aids this process by removing false positives in the search results, so that reviewing this data is quicker for a human operator. if you wanna in Dashboard mode contact me at harry.darknet@protonmail.ch , Here is command-base console. (Its'Free ) and developed by Jacob Wilkin. I'm going for adding some another features in same..
 
 Social Mapper supports the following social media platforms:
 
@@ -13,9 +15,6 @@ Social Mapper supports the following social media platforms:
 * Twitter
 * GooglePlus
 * Instagram
-* VKontakte
-* Weibo
-* Douban
 
 Social Mapper takes a variety of input types such as:
 
